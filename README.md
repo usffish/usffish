@@ -1,4 +1,4 @@
-# Hi, I'm Ismail Jhaveri 👋
+# Hi, I'm Ismail Jhaveri
 
 Graduate student at the **University of South Florida** pursuing an M.S. in AI & Business Analytics (May 2027). I bridge the gap between **deep engineering fundamentals** — from semiconductor process integration at Intel — and **modern AI systems**, including agentic workflows, LLM orchestration, and privacy-preserving ML.
 
@@ -6,7 +6,7 @@ I'm actively seeking roles in **AI/Software Engineering**, **Chemical/Process En
 
 ---
 
-## 🔭 What I'm Working On
+## What I'm Working On
 
 - Building **agentic AI workflows** with LLM orchestration and tool-use pipelines
 - Exploring **privacy-preserving ML** techniques (federated learning, differential privacy)
@@ -14,7 +14,7 @@ I'm actively seeking roles in **AI/Software Engineering**, **Chemical/Process En
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### AI & Machine Learning
 ![Agentic AI](https://img.shields.io/badge/Agentic--AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
@@ -42,27 +42,27 @@ I'm actively seeking roles in **AI/Software Engineering**, **Chemical/Process En
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🤖 [VetClaim AI](https://github.com/usffish/vetclaim-ai) — HackUSF 2026
+### [VetClaim AI](https://github.com/usffish/vetclaim-ai) — HackUSF 2026
 An AI-powered VA disability claims assistant that audits veteran ratings against CFR Title 38 regulations, flags under-ratings and PACT Act eligibility, pre-fills appeal forms, and places AI phone calls to the VA on the veteran's behalf.
 `Google ADK` `Gemini 2.5 Flash` `React` `Flask` `Vapi.ai` `Multi-Agent`
 
-### 🎬 [Movie Score Engine](https://github.com/usffish/movie-score-engine)
+### [Movie Score Engine](https://github.com/usffish/movie-score-engine)
 A Python CLI tool that aggregates film scores from OMDb, Metacritic, and Letterboxd, applies Bayesian-motivated weighting and min-max normalization, and produces a composite ranking — with a property-based test suite using Hypothesis.
 `Python` `BeautifulSoup` `Bayesian Statistics` `pytest` `Hypothesis`
 
-### 📊 [Texas K-12 Education Analysis](https://github.com/usffish/School-Projects)
+### [Texas K-12 Education Analysis](https://github.com/usffish/School-Projects)
 End-to-end data pipeline analyzing TEA dropout and leaver data across 1,169 Texas districts for 2023-24 — collection, cleaning, trend analysis, and district-level visualizations.
 `Python` `pandas` `matplotlib` `Jupyter`
 
-### 🎵 [AudioLog](https://github.com/usffish/AudioLog)
+### [AudioLog](https://github.com/usffish/AudioLog)
 A full-stack ASP.NET Core MVC web application for logging and reviewing audio content, built on .NET 10 with full CRUD operations.
 `C#` `ASP.NET Core MVC` `.NET 10`
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 - **Intel** — Process Integration & Yield (semiconductor manufacturing, process optimization)
 - **Prana Tree** — Junior Software Engineer (AI-augmented development)
@@ -70,7 +70,7 @@ A full-stack ASP.NET Core MVC web application for logging and reviewing audio co
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismail%20Jhaveri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-jhaveri-2021/)
 [![Email](https://img.shields.io/badge/Email-ismailj%40usf.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ismailj@usf.edu)

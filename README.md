@@ -1,44 +1,43 @@
 # Hi, I'm Ismail Jhaveri
 
-Graduate student at the **University of South Florida** pursuing an M.S. in AI & Business Analytics (May 2027). I bridge the gap between **deep engineering fundamentals** — from semiconductor process integration at Intel — and **modern AI systems**, including agentic workflows, LLM orchestration, and privacy-preserving ML.
+Graduate student at the **University of South Florida** pursuing an M.S. in AI & Business Analytics (May 2027), with a B.S. in Chemical Engineering. I combine hands-on semiconductor manufacturing experience from Intel with applied data science and AI systems development — bridging process engineering and modern ML workflows.
 
-I'm actively seeking roles in **AI/Software Engineering**, **Chemical/Process Engineering**, and **Data & Cloud Architecture** where I can apply both sides of my background.
+I'm actively seeking roles in **semiconductor & process engineering**, **AI/software engineering**, and **data analytics**.
 
 ---
 
 ## What I'm Working On
 
 - Building **agentic AI workflows** with LLM orchestration and tool-use pipelines
-- Exploring **privacy-preserving ML** techniques (federated learning, differential privacy)
-- Deepening expertise in **AWS cloud architecture** and scalable data systems
+- Applying **DOE and SPC** methods to process optimization problems
+- Deepening expertise in **AWS** and scalable data pipelines
 
 ---
 
 ## Skills & Technologies
 
 ### AI & Machine Learning
-![Agentic AI](https://img.shields.io/badge/Agentic--AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![LLM Orchestration](https://img.shields.io/badge/LLM--Orchestration-7B2FBE?style=flat-square&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative--AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Privacy-Preserving ML](https://img.shields.io/badge/Privacy--Preserving--ML-00897B?style=flat-square&logo=tensorflow&logoColor=white)
-![Machine Learning Engineering](https://img.shields.io/badge/ML--Engineering-F7931E?style=flat-square&logo=pytorch&logoColor=white)
+![LLM Workflows](https://img.shields.io/badge/LLM--Workflows-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic--AI-7B2FBE?style=flat-square&logo=openai&logoColor=white)
+![Supervised ML](https://img.shields.io/badge/Supervised--ML-F7931E?style=flat-square&logo=pytorch&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature--Engineering-00897B?style=flat-square&logo=tensorflow&logoColor=white)
 
-### Software & Backend
+### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![C# .NET](https://img.shields.io/badge/C%23--.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Async Programming](https://img.shields.io/badge/Async--Programming-0078D4?style=flat-square&logo=azurepipelines&logoColor=white)
-![Full-Stack Dev](https://img.shields.io/badge/Full--Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![AI-Augmented SDLC](https://img.shields.io/badge/AI--Augmented--SDLC-6DB33F?style=flat-square&logo=githubactions&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### Data & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Logical Data Modeling](https://img.shields.io/badge/Logical--Data--Modeling-0052CC?style=flat-square&logo=databricks&logoColor=white)
+### Process & Statistics
+![DOE](https://img.shields.io/badge/Design--of--Experiments-607D8B?style=flat-square&logo=intel&logoColor=white)
+![SPC](https://img.shields.io/badge/Statistical--Process--Control-607D8B?style=flat-square&logo=intel&logoColor=white)
+![Root Cause Analysis](https://img.shields.io/badge/Root--Cause--Analysis-607D8B?style=flat-square&logo=intel&logoColor=white)
+
+### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data--Analytics-FF6B6B?style=flat-square&logo=tableau&logoColor=white)
-
-### Engineering
-![Process Optimization](https://img.shields.io/badge/Process--Optimization-607D8B?style=flat-square&logo=intel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JMP](https://img.shields.io/badge/JMP-0052CC?style=flat-square&logoColor=white)
 
 ---
 
@@ -62,9 +61,12 @@ A full-stack ASP.NET Core MVC web application for logging and reviewing audio co
 
 ---
 
-## Experience Highlights
+## Experience
 
-- **Intel** — Process Integration & Yield (semiconductor manufacturing, process optimization)
+- **Intel** (Jan 2022 – Nov 2024) — Module & Shift Engineer, semiconductor manufacturing. 90% reduction in measurement error, 6+ hrs/week tool availability gain, 10% defect reduction via SPC.
+- **Better Infotech** (Aug 2019 – May 2021) — Data Analyst Intern. ETL pipelines, classification algorithms, operational analytics.
+- **Kaligia Biosciences** (May 2019 – Aug 2019) — Data Science Intern. ML on Raman spectroscopy data, 30% model accuracy improvement.
+- **Mach Engineering** (Jun 2021 – Sep 2021) — Sales Engineer. Wet scrubber design, Aspen Plus process modeling.
 
 ---
 

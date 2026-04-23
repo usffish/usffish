@@ -47,6 +47,10 @@ I'm actively seeking roles in **semiconductor & process engineering**, **AI/soft
 An AI-powered VA disability claims assistant that audits veteran ratings against CFR Title 38 regulations, flags under-ratings and PACT Act eligibility, pre-fills appeal forms, and places AI phone calls to the VA on the veteran's behalf.
 `Google ADK` `Gemini 2.5 Flash` `React` `Flask` `Vapi.ai` `Multi-Agent`
 
+### [LoL Match Prediction](https://github.com/usffish/lol-match-prediction)
+ML classification pipeline predicting League of Legends 2024 competitive match outcomes from 12,276 rows and 123 features. Trained KNN (91.5% accuracy, 0.974 ROC-AUC), SVM (97.9%), and MLP (99.85%) classifiers with GridSearchCV tuning and imbalanced-learn handling.
+`Python` `scikit-learn` `pandas` `GridSearchCV` `KNN` `SVM` `MLP`
+
 ### [Movie Score Engine](https://github.com/usffish/movie-score-engine)
 A Python CLI tool that aggregates film scores from OMDb, Metacritic, and Letterboxd, applies Bayesian-motivated weighting and min-max normalization, and produces a composite ranking — with a property-based test suite using Hypothesis.
 `Python` `BeautifulSoup` `Bayesian Statistics` `pytest` `Hypothesis`

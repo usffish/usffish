@@ -65,7 +65,6 @@ A full-stack ASP.NET Core MVC web application for logging and reviewing audio co
 ## Experience Highlights
 
 - **Intel** — Process Integration & Yield (semiconductor manufacturing, process optimization)
-- **USF Graduate Research** — AI & Business Analytics, privacy-preserving ML focus
 
 ---
 

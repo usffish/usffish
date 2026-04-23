@@ -48,7 +48,7 @@ I'm actively seeking roles in **AI/Software Engineering**, **Chemical/Process En
 An AI-powered VA disability claims assistant that audits veteran ratings against CFR Title 38 regulations, flags under-ratings and PACT Act eligibility, pre-fills appeal forms, and places AI phone calls to the VA on the veteran's behalf.
 `Google ADK` `Gemini 2.5 Flash` `React` `Flask` `Vapi.ai` `Multi-Agent`
 
-### 🎬 [Movie Score Engine](https://github.com/usffish/Personal)
+### 🎬 [Movie Score Engine](https://github.com/usffish/movie-score-engine)
 A Python CLI tool that aggregates film scores from OMDb, Metacritic, and Letterboxd, applies Bayesian-motivated weighting and min-max normalization, and produces a composite ranking — with a property-based test suite using Hypothesis.
 `Python` `BeautifulSoup` `Bayesian Statistics` `pytest` `Hypothesis`
 

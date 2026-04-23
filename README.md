@@ -74,3 +74,9 @@ A full-stack ASP.NET Core MVC web application for logging and reviewing audio co
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismail%20Jhaveri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-jhaveri-2021/)
 [![Email](https://img.shields.io/badge/Email-ismailj%40usf.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ismailj@usf.edu)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usffish&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>

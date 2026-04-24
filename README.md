@@ -45,27 +45,27 @@ I'm actively seeking roles in **semiconductor & process engineering**, **AI/soft
 
 ### [VetClaim AI](https://github.com/usffish/vetclaim-ai) — HackUSF 2026
 An AI-powered VA disability claims assistant that audits veteran ratings against CFR Title 38 regulations, flags under-ratings and PACT Act eligibility, pre-fills appeal forms, and places AI phone calls to the VA on the veteran's behalf.
-`Google ADK` `Gemini 2.5 Flash` `React` `Flask` `Vapi.ai` `Multi-Agent`
+Google ADK · Gemini 2.5 Flash · React · Flask · Vapi.ai · Multi-Agent
 
 ### [LoL Match Prediction](https://github.com/usffish/lol-match-prediction)
 ML classification pipeline predicting League of Legends 2024 competitive match outcomes from 12,276 rows and 123 features. Trained KNN (91.5% accuracy, 0.974 ROC-AUC), SVM (97.9%), and MLP (99.85%) classifiers with GridSearchCV tuning and imbalanced-learn handling.
-`Python` `scikit-learn` `pandas` `GridSearchCV` `KNN` `SVM` `MLP`
+Python · scikit-learn · pandas · GridSearchCV · KNN · SVM · MLP
 
 ### [Movie Score Engine](https://github.com/usffish/movie-score-engine)
 A Python CLI tool that aggregates film scores from OMDb, Metacritic, and Letterboxd, applies Bayesian-motivated weighting and min-max normalization, and produces a composite ranking — with a property-based test suite using Hypothesis.
-`Python` `BeautifulSoup` `Bayesian Statistics` `pytest` `Hypothesis`
+Python · BeautifulSoup · Bayesian Statistics · pytest · Hypothesis
 
 ### [ShopNow E-Commerce Database](https://github.com/usffish/shopnow-ecommerce-db)
 End-to-end Oracle SQL database project for a fictional e-commerce platform — 3NF OLTP schema design, ETL pipeline, star schema OLAP data warehouse, and multi-dimensional analytics using ROLLUP and CUBE operators.
-`Oracle SQL` `PL/SQL` `Data Warehousing` `ETL` `Star Schema` `OLAP`
+Oracle SQL · PL/SQL · Data Warehousing · ETL · Star Schema · OLAP
 
 ### [Texas K-12 Education Analysis](https://github.com/usffish/School-Projects)
 End-to-end data pipeline analyzing TEA dropout and leaver data across 1,169 Texas districts for 2023-24 — collection, cleaning, trend analysis, and district-level visualizations.
-`Python` `pandas` `matplotlib` `Jupyter`
+Python · pandas · matplotlib · Jupyter
 
 ### [AudioLog](https://github.com/usffish/AudioLog)
 A full-stack ASP.NET Core MVC web application for logging and reviewing audio content, built on .NET 10 with full CRUD operations.
-`C#` `ASP.NET Core MVC` `.NET 10`
+C# · ASP.NET Core MVC · .NET 10
 
 ---
 

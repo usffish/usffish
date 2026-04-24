@@ -59,7 +59,7 @@ Python · BeautifulSoup · Bayesian Statistics · pytest · Hypothesis
 End-to-end Oracle SQL database project for a fictional e-commerce platform — 3NF OLTP schema design, ETL pipeline, star schema OLAP data warehouse, and multi-dimensional analytics using ROLLUP and CUBE operators.
 Oracle SQL · PL/SQL · Data Warehousing · ETL · Star Schema · OLAP
 
-### [Texas K-12 Education Analysis](https://github.com/usffish/School-Projects)
+### [Texas K-12 Education Analysis](https://github.com/usffish/texas-k12-education-analysis)
 End-to-end data pipeline analyzing TEA dropout and leaver data across 1,169 Texas districts for 2023-24 — collection, cleaning, trend analysis, and district-level visualizations.
 Python · pandas · matplotlib · Jupyter
 

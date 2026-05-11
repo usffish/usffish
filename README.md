@@ -43,6 +43,10 @@ I'm actively seeking roles in **semiconductor & process engineering**, **AI/soft
 
 ## Featured Projects
 
+### [Nazr — AuraGuard AI](https://github.com/usffish/Nazr) — Hackabull VII
+A life-critical wearable AI platform for Alzheimer's patients built on Meta Smart Glasses. Streams a first-person POV through a local YOLOv8 + Gemini two-pass health detection pipeline, recognizes familiar faces via YuNet + SFace (ONNX), generates empathetic voice alerts via ElevenLabs, and surfaces a real-time caregiver dashboard backed by MongoDB Atlas and Snowflake.
+Python · FastAPI · YOLOv8 · Gemini 1.5 Flash · ElevenLabs · OpenCV · Streamlit · MongoDB · Snowflake
+
 ### [VetClaim AI](https://github.com/usffish/vetclaim-ai) — HackUSF 2026
 An AI-powered VA disability claims assistant that audits veteran ratings against CFR Title 38 regulations, flags under-ratings and PACT Act eligibility, pre-fills appeal forms, and places AI phone calls to the VA on the veteran's behalf.
 Google ADK · Gemini 2.5 Flash · React · Flask · Vapi.ai · Multi-Agent
